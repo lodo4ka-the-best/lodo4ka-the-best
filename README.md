@@ -21,9 +21,9 @@ This page is my journey from the first lines of code to something bigger.
 
 ### Currently working on
 
-- Learning Python and automation
-- Building my first pet project
-- Improving this profile and writing cleaner code
+- Learning Python and automation                        |
+- Learning VCS for a project larger than gpu-noise-rng  | Wow, I’m doing quite a lot of studying.
+- Learning to write clean code                          |
 
 ---
 
