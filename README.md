@@ -29,7 +29,7 @@ This page is my journey from the first lines of code to something bigger.
 
 ### Goals for 2026
 
-- [✓] Publish my first full project
+- [x] Publish my first full project
 - [ ] Reach 100 commits
 - [ ] Get confident with Git and GitHub
 - [ ] Write a script I actually use
